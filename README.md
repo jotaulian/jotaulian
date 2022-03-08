@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Angular and Spring Boot
 
-- 📫 How to reach me: julianeggle@hotmail.com  |  https://julianeggle.com/index.html
+- 📫 How to reach me: julianeggle@hotmail.com  |  https://julianeggle.com/
 
 <!--
 **jotaulian/jotaulian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
