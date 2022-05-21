@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Angular and Spring Boot
+- 🌱 I’m currently learning Django and React
 
 - 📫 How to reach me: julianeggle@hotmail.com  |  https://julianeggle.com/
 
