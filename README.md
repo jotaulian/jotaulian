@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Django and React
+- 🌱 I’m currently learning Vue 3
 
 - 📫 How to reach me: julianeggle@hotmail.com  |  https://julianeggle.com/
 
