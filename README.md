@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Frontend developer with Vue 3
+- Frontend developer || Vue & React
 
 - 📫 How to reach me: julianeggle@hotmail.com  |  https://julianeggle.com/
 
