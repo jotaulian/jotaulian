@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Frontend developer || Vue & React
+- Fullstack developer || Vue & Java
 
 - 📫 How to reach me: julianeggle@hotmail.com  |  https://julianeggle.com/
 
