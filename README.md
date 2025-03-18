@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Fullstack developer || Java (Spring Boot) & Javascript (Vue 3, Angular) 
+- Fullstack developer || Javascript (Vue 3, Angular, React) & Java (Spring Boot)
 
 - 📫 How to reach me: julianeggle@hotmail.com  |  https://julianeggle.com/
 
